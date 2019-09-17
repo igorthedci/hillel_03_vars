@@ -15,7 +15,7 @@
      * 2) The result should be 0.5;
      */
 
-    class Education {
+public class task_04 {
         public static int a = 5;
         public static int b = 10;
 
@@ -25,5 +25,5 @@
 
             System.out.println(result);
         }
-    }
+}
 
